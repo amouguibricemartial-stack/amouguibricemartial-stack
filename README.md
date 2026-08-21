@@ -1,29 +1,36 @@
 # Hi there, I'm Brice Martial Amougui 👋
+### Lead Software Engineer | Web3 Systems & Smart Contract Security Auditor
 
-```text
-  ___ ___     __      _____   ___________ 
- /   |   \   /  \    /  |  | /   _____/   |
-/    ~    \  \   \/\/   |  | \_____  \    |
-\    Y    /   \        /|  |_/        \   |
- \___|_  /     \__/\  / |____/_______  /___|
-       \/           \/               \/     
-```
-
-### 🛡️ Smart Contract Security Researcher & Software Engineer
-Passionate about blockchain security, EVM formal verification, stateful fuzzing, and AI-driven automated security tooling.
+[![Solidity](https://img.shields.io/badge/Solidity-0.8.20-363636?logo=solidity&logoColor=white)](https://soliditylang.org/)
+[![Rust](https://img.shields.io/badge/Rust-Anchor%20Framework-black?logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Python](https://img.shields.io/badge/Python-FastAPI%20%2F%20AsyncIO-3776AB?logo=python&logoColor=white)](https://python.org/)
+[![Foundry](https://img.shields.io/badge/Foundry-Forge%20Testing-E57373?logo=ethereum&logoColor=white)](https://getfoundry.sh/)
+[![Docker](https://img.shields.io/badge/Docker-Sandboxed%20Execution-2496ED?logo=docker&logoColor=white)](https://docker.com/)
 
 ---
 
-### 🚀 Key Projects & Engineering
+### 👨‍💻 Executive Summary
+Software Engineer specializing in **fintech payment platforms, decentralized protocol architecture, and offensive smart contract security** across EVM and Solana ecosystems.
 
-- **🛡️ [AW3SS](https://github.com/amouguibricemartial-stack/AW3SS) — Automated Web3 Security Scanner & PoC Engine**
-  - Designed an autonomous vulnerability research framework combining **Slither/Slitherin AST data-flow analysis**, **Vector RAG exploit indexing (1,015+ models)**, and **isolated Docker Foundry sandboxes**.
-  - Engineered deterministic **Level 2 Mainnet Fork testing** across Ethereum, Arbitrum, Flare, Base, and Cronos with zero false-validation guarantees through a **universal 8 formal assertion matrix**.
-  - Built an autonomous **Self-Healing Loop (3 temperature retries)** to automatically fix compilation pragmas, interfaces, and state parameters.
+Proven track record designing and developing production-grade payment gateway systems (**AfricPay**) and autonomous multi-chain security engines (**AW3SS**). Core capabilities span high-throughput backend engineering, transaction integrity, automated invariant fuzzing, and deterministic Proof of Concept (PoC) exploit verification.
 
-- **💳 AfricPay — Resilient Fintech & Payment Transfer System**
-  - Architected a transactional money transfer engine with real-time balance reconciliation.
-  - Implemented cryptographic safeguards against double-spending, data race conditions, and API fraud.
+---
+
+### 🌟 Featured Repositories
+
+- 🛡️ **[AW3SS](https://github.com/amouguibricemartial-stack/AW3SS)** — Multi-Agent Web3 Security Scanner & PoC Engine
+  - Autonomous vulnerability research framework combining **Slither/Slitherin AST data-flow analysis**, **Vector RAG exploit indexing**, and **isolated Docker Foundry sandboxes**.
+  - Multi-Chain coverage across Ethereum, Arbitrum, Base, Solana (Rust/Anchor), Cairo, and TON.
+  - Autonomous **Self-Healing Loop (3 temperature retries)** to automatically fix compilation pragmas, interfaces, and state parameters.
+
+- ⚡ **[production-solidity-templates](https://github.com/amouguibricemartial-stack/production-solidity-templates)** — Production-Ready Solidity Templates
+  - Gas-optimized ERC-4626 staking vaults with custom errors and storage packing (`~20k gas savings`).
+  - GameFi multi-asset engine with cryptographic EIP-712 voucher validation and replay protection.
+  - Complete unit and fuzz testing suite built with Foundry (`forge test`).
+
+- 📂 **[web3-security-reviews](https://github.com/amouguibricemartial-stack/web3-security-reviews)** — Security Reviews & Reproducible PoCs
+  - Comprehensive smart contract security audit reports and vulnerability post-mortems.
+  - Reproducible Foundry PoC exploit test suites (`forge test -vvvv`) demonstrating Read-Only Reentrancy and Signature Replay attacks.
 
 ---
 
@@ -31,22 +38,13 @@ Passionate about blockchain security, EVM formal verification, stateful fuzzing,
 
 | Category | Technologies & Tools |
 |---|---|
-| **Blockchain & Smart Contracts** | Solidity, Foundry (Forge, Cast), Slither, Slitherin, EVM, Hardhat |
-| **Languages & Scripting** | Python 3.11+, Rust, JavaScript, TypeScript, Bash, SQL |
-| **AI & Automation** | RAG (Retrieval-Augmented Generation), LLMOps, LangGraph, Vector Embeddings |
-| **Infrastructure & Security** | Docker (Isolated Sandboxing), Linux Hardening, Git, CI/CD, SARIF |
-| **Networks** | Ethereum Mainnet, Arbitrum, Base, Flare Network, Cronos, Polygon |
-
----
-
-### 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amouguibricemartial-stack&show_icons=true&theme=radical&hide_border=true" alt="Brice's GitHub Stats" />
-</p>
+| **Smart Contracts & Security** | Solidity (^0.8.20), Rust (Anchor), Foundry (Forge, Cast), Slither, Slitherin, Hardhat |
+| **Backend & Architecture** | Python (FastAPI, AsyncIO, Web3.py), Node.js, REST APIs, SQLite, Docker |
+| **Vulnerability Analysis** | Read-Only Reentrancy, Price Feed Manipulation, Precision Loss, EIP-712 Replay, PDA Flaws |
+| **Networks** | Ethereum Mainnet, Arbitrum, Base, Solana, Flare Network, Cronos, Polygon |
 
 ---
 
 ### 📬 Connect With Me
-- 💼 **LinkedIn :** [Connect on LinkedIn](https://www.linkedin.com/)
-- 🤝 **Open for :** Smart Contract Audits, Vulnerability Research, Protocol Security Reviews, and Software Engineering opportunities.
+- 💼 **GitHub:** [@amouguibricemartial-stack](https://github.com/amouguibricemartial-stack)
+- 🤝 **Available for:** Protocol Security Audits, Custom Smart Contract Development, and Senior Engineering Roles.
