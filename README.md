@@ -1,4 +1,4 @@
-# Hi there, I'm Brice Martial Amougui 👋
+# Brice Martial Amougui
 ### Lead Software Engineer | Web3 Systems & Smart Contract Security Auditor
 
 [![Solidity](https://img.shields.io/badge/Solidity-0.8.20-363636?logo=solidity&logoColor=white)](https://soliditylang.org/)
@@ -9,32 +9,32 @@
 
 ---
 
-### 👨‍💻 Executive Summary
+### Executive Summary
 Software Engineer specializing in **fintech payment platforms, decentralized protocol architecture, and offensive smart contract security** across EVM and Solana ecosystems.
 
 Proven track record designing and developing production-grade payment gateway systems (**AfricPay**) and autonomous multi-chain security engines (**AW3SS**). Core capabilities span high-throughput backend engineering, transaction integrity, automated invariant fuzzing, and deterministic Proof of Concept (PoC) exploit verification.
 
 ---
 
-### 🌟 Featured Repositories
+### Featured Repositories
 
-- 🛡️ **[AW3SS](https://github.com/amouguibricemartial-stack/AW3SS)** — Multi-Agent Web3 Security Scanner & PoC Engine
+- **[AW3SS](https://github.com/amouguibricemartial-stack/AW3SS)** — Multi-Agent Web3 Security Scanner & PoC Engine
   - Autonomous vulnerability research framework combining **Slither/Slitherin AST data-flow analysis**, **Vector RAG exploit indexing**, and **isolated Docker Foundry sandboxes**.
   - Multi-Chain coverage across Ethereum, Arbitrum, Base, Solana (Rust/Anchor), Cairo, and TON.
   - Autonomous **Self-Healing Loop (3 temperature retries)** to automatically fix compilation pragmas, interfaces, and state parameters.
 
-- ⚡ **[production-solidity-templates](https://github.com/amouguibricemartial-stack/production-solidity-templates)** — Production-Ready Solidity Templates
-  - Gas-optimized ERC-4626 staking vaults with custom errors and storage packing (`~20k gas savings`).
+- **[production-solidity-templates](https://github.com/amouguibricemartial-stack/production-solidity-templates)** — Production-Ready Solidity Templates
+  - Gas-optimized ERC-4626 staking vaults with custom errors and storage packing (~20k gas savings).
   - GameFi multi-asset engine with cryptographic EIP-712 voucher validation and replay protection.
   - Complete unit and fuzz testing suite built with Foundry (`forge test`).
 
-- 📂 **[web3-security-reviews](https://github.com/amouguibricemartial-stack/web3-security-reviews)** — Security Reviews & Reproducible PoCs
+- **[web3-security-reviews](https://github.com/amouguibricemartial-stack/web3-security-reviews)** — Security Reviews & Reproducible PoCs
   - Comprehensive smart contract security audit reports and vulnerability post-mortems.
   - Reproducible Foundry PoC exploit test suites (`forge test -vvvv`) demonstrating Read-Only Reentrancy and Signature Replay attacks.
 
 ---
 
-### 🛠️ Technical Arsenal
+### Technical Arsenal
 
 | Category | Technologies & Tools |
 |---|---|
@@ -45,6 +45,7 @@ Proven track record designing and developing production-grade payment gateway sy
 
 ---
 
-### 📬 Connect With Me
-- 💼 **GitHub:** [@amouguibricemartial-stack](https://github.com/amouguibricemartial-stack)
-- 🤝 **Available for:** Protocol Security Audits, Custom Smart Contract Development, and Senior Engineering Roles.
+### Contact & Engagement
+- **GitHub:** [@amouguibricemartial-stack](https://github.com/amouguibricemartial-stack)
+- **LinkedIn:** [Brice Martial Amougui](https://www.linkedin.com/)
+- **Availability:** Open for private protocol security audits, smart contract development, and senior engineering roles.
